@@ -1,548 +1,479 @@
-# 'BOND' is shared by:
-# - https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f (BarnBridge): https://BarnBridge.com
-#   USD Market cap on 2021-06-21T14:54:25.057956: $107,615,916.22
-# 0x0391D2021f89DC339F60Fff84546EA23E337750f
-# - https://etherscan.io/token/0x5Dc02Ea99285E17656b8350722694c35154DB1E8 (BOND): https://bonded.finance/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $5,193,298.07
-0x5Dc02Ea99285E17656b8350722694c35154DB1E8 # REVIEW 20210622 Approved.
-
-# 'BOX' is shared by:
-# - https://etherscan.io/token/0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f (BOX Token): https://contentbox.one/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $1,348,473.92
-# 0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f
-# - https://etherscan.io/token/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD (BOX Token): https://box.la
-#   USD Market cap on 2021-06-21T14:54:25.057956: $1,057,357.73
-0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD # REVIEW 20210622 Approved.
-
-# 'COIN' is shared by:
-# - https://etherscan.io/token/0x87b008E57F640D94Ee44Fd893F0323AF933F9195 (Coin Artist): https://medium.com/@coin_artist_17801
-#   USD Market cap on 2021-06-21T14:54:25.057956: $791,361.71
-0x87b008E57F640D94Ee44Fd893F0323AF933F9195
-# - https://etherscan.io/token/0xE61fDAF474Fac07063f2234Fb9e60C1163Cfa850 (Coin (COIN)): https://coindefi.org
-#   USD Market cap on 2021-06-21T14:54:25.057956: $10,879,320.93
-# 0xE61fDAF474Fac07063f2234Fb9e60C1163Cfa850
-
-# 'DRC' is shared by:
-# - https://etherscan.io/token/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606 (Digital Reserve Currency): https://drcglobal.org/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $2,343,573.45
-# 0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606
-# - https://etherscan.io/token/0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8 (Dracula Protocol): https://dracula.sucks/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $2,427,921.63
-0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8 # REVIEW 20210622 Approved.
-
-# 'GRT' is shared by:
-# - https://etherscan.io/token/0xb83Cd8d39462B761bb0092437d38b37812dd80A2 (GoldenRatio): https://goldenratiotoken.site/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $8,160.14
-0xb83Cd8d39462B761bb0092437d38b37812dd80A2
-# - https://etherscan.io/token/0xc944E90C64B2c07662A292be6244BDf05Cda44a7 (The Graph): https://thegraph.com
-#   USD Market cap on 2021-06-21T14:54:25.057956: $1,556,267,104.69
-# 0xc944E90C64B2c07662A292be6244BDf05Cda44a7
-
-# 'HOT' is shared by:
-# - https://etherscan.io/token/0x6c6EE5e31d828De241282B9606C8e98Ea48526E2 (Holo): https://holochain.org
-#   USD Market cap on 2021-06-21T14:54:25.057956: $1,157,511,971.20
-# 0x6c6EE5e31d828De241282B9606C8e98Ea48526E2
-# - https://etherscan.io/token/0x9AF839687F6C94542ac5ece2e317dAAE355493A1 (Hydro Protocol): https://hydroprotocol.io
-#   USD Market cap on 2021-06-21T14:54:25.057956: $2,795,752.41
-0x9AF839687F6C94542ac5ece2e317dAAE355493A1 # REVIEW 20210622 Approved.
-
-# 'NTK' is shared by:
-# - https://etherscan.io/token/0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C (Netkoin): https://netkoin.com
-#   USD Market cap on 2021-06-21T14:54:25.057956: $262,699.00
-0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C # REVIEW 20210622 Approved
-# - https://etherscan.io/token/0x69BEaB403438253f13b6e92Db91F7FB849258263 (NeuroToken): https://neuromation.io
-#   USD Market cap on 2021-06-21T14:54:25.057956: $5,427,598.87
-# 0x69BEaB403438253f13b6e92Db91F7FB849258263
-
-# 'OPT' is shared by:
-# - https://etherscan.io/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0 (Opus Token): http://opus-foundation.org/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $359,290.09
-0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0 # REVIEW 20210622 Approved
-# - https://etherscan.io/token/0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda (OpenPredict): https://openpredict.io/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $1,263,088.04
-# 0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda
-
-# 'PAR' is shared by:
-# - https://etherscan.io/token/0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06 (Parachute): https://www.parachutetoken.com/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $4,602,578.54
-# 0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06
-# - https://etherscan.io/token/0x68037790A0229e9Ce6EaA8A99ea92964106C4703 (PAR Stablecoin (PAR)): https://mimo.capital
-#   USD Market cap on 2021-06-21T14:54:25.057956: $2,637,534.89
-0x68037790A0229e9Ce6EaA8A99ea92964106C4703 # REVIEW 20210622 Approved
-
-# 'PNT' is shared by:
-# - https://etherscan.io/token/0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3 (Penta Network Token): https://www.penta.global
-#   USD Market cap on 2021-06-21T14:54:25.057956: $1,590,852.68
-0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3 # REVIEW 20210622 Approved
-# - https://etherscan.io/token/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD (pNetwork): https://p.network
-#   USD Market cap on 2021-06-21T14:54:25.057956: $37,470,691.93
-# 0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD
-
-# 'TEAM' is shared by:
-# - https://etherscan.io/token/0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7 (TEAM): https://tokenstars.com
-#   USD Market cap on 2021-06-21T14:54:25.057956: $47,995.34
-# 0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7
-# - https://etherscan.io/token/0xb05AF453011d7ad68a92b0065FFD9d1277eD2741 (Team Finance): https://team.finance
-#   USD Market cap on 2021-06-21T14:54:25.057956: $8,419.06
-0xb05AF453011d7ad68a92b0065FFD9d1277eD2741 # REVIEW 20210622 Approved
-
-# 'YLD' is shared by:
-# - https://etherscan.io/token/0xDcB01cc464238396E213a6fDd933E36796eAfF9f (Yield): https://yield.credit/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $2,574,101.19
-0xDcB01cc464238396E213a6fDd933E36796eAfF9f # REVIEW 20210622 Approved
-# - https://etherscan.io/token/0xF94b5C5651c888d928439aB6514B93944eEE6F48 (Yield): https://yield.app
-#   USD Market cap on 2021-06-21T14:54:25.057956: $31,317,865.36
-# 0xF94b5C5651c888d928439aB6514B93944eEE6F48
-
-# 'cDAI' is shared by:
-# - https://etherscan.io/token/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643 (Compound Dai): https://compound.finance/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $2,713,370,919.78
-# 0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643
-# - https://etherscan.io/token/0xF5DCe57282A584D2746FaF1593d3121Fcac444dC (Compound Dai): https://compound.finance/
-#   USD Market cap on 2021-06-21T14:54:25.057956: $2,356,843.28
-0xF5DCe57282A584D2746FaF1593d3121Fcac444dC
-
-# '""' is shared by:
-# - https://etherscan.io/token/0x419B8ED155180A8c9C64145e76DaD49c0A4Efb97 (AltEstate token): https://alt.estate
-#   Price: $0.00 Market cap: $174,820.09 (2021-06-23T13:50:46.614452)
-# 0x419B8ED155180A8c9C64145e76DaD49c0A4Efb97
-# - https://etherscan.io/token/0xe7E4279b80D319EDe2889855135A22021baf0907 (ZeusNetwork): https://zeusfundme.com
-#   Price: $0.00 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xe7E4279b80D319EDe2889855135A22021baf0907
-
-# 'BID' is shared by:
-# - https://etherscan.io/token/0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288 (DefiBids): https://defibids.com
-#   Price: $0.02 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288
-# - https://etherscan.io/token/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa (Bidao): https://bidaochain.com/
-#   Price: $0.02 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa
-
-# 'BTR' is shared by:
-# - https://etherscan.io/token/0x499A6B77bc25C26bCf8265E2102B1B3dd1617024 (Bitether):
-#   Price: $0.00 Market cap: $1,592.67 (2021-06-23T13:50:46.614452)
-0x499A6B77bc25C26bCf8265E2102B1B3dd1617024
-# - https://etherscan.io/token/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5 (Bitrue Coin): https://www.bitrue.com/
-#   Price: $0.12 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-# 0xd433138d12beB9929FF6fd583DC83663eea6Aaa5
-
-# 'CTT' is shared by:
-# - https://etherscan.io/token/0x13c2B7F851E756415cF7d51d04dcF4F94A5b382E (CitexToken): https://www.citex.io/
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x13c2B7F851E756415cF7d51d04dcF4F94A5b382E
-# - https://etherscan.io/token/0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235 (CASTWEET): https://www.castweet.com/
-#   Price: $0.10 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-# 0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235
-
-# 'DELTA' is shared by:
-# - https://etherscan.io/token/0x9EA3b5b4EC044b70375236A281986106457b20EF (Delta Financial): https://delta.financial
-#   Price: $2.35 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x9EA3b5b4EC044b70375236A281986106457b20EF
-# - https://etherscan.io/token/0xDE1E0AE6101b46520cF66fDC0B1059c5cC3d106c (DeltaChain Token): https://deltachain.tech/
-#   Price: $0.00 Market cap: $27,059.18 (2021-06-23T13:50:46.614452)
-# 0xDE1E0AE6101b46520cF66fDC0B1059c5cC3d106c
-
-# 'ECU' is shared by:
-# - https://etherscan.io/token/0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5 (ECOSCU): https://www.ecosc.io
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5
-# - https://etherscan.io/token/0xd3CDc4e75750DC1e59F8342200742B6B29490e70 (Decurian): https://ecucoins.com/
-#   Price: $949.99 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-# 0xd3CDc4e75750DC1e59F8342200742B6B29490e70
-
-# 'EVC' is shared by:
-# - https://etherscan.io/token/0xAa843f65872a25D6E9552eA0B360Fb1d5E333124 (EVC): https://ecovaluecoin.com
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xAa843f65872a25D6E9552eA0B360Fb1d5E333124
-# - https://etherscan.io/token/0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F (EventChain): https://eventchain.io
-#   Price: $0.02 Market cap: $700,227.73 (2021-06-23T13:50:46.614452)
-# 0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F
-
-# 'GTC' is shared by:
-# - https://etherscan.io/token/0xB70835D7822eBB9426B56543E391846C107bd32C (Game.com Token): http://www.game.com
-#   Price: $0.00 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xB70835D7822eBB9426B56543E391846C107bd32C
-# - https://etherscan.io/token/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F (Gitcoin): https://gitcoin.co/quadraticlands/
-#   Price: $5.73 Market cap: $81,559,966.39 (2021-06-23T13:50:46.614452)
-# 0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F
-
-# 'IMT' is shared by:
-# - https://etherscan.io/token/0x13119E34E140097a507B07a5564bDe1bC375D9e6 (MoneyToken): http://moneytoken.eu/
-#   Price: $0.00 Market cap: $3,224,948.69 (2021-06-23T13:50:46.614452)
-# 0x13119E34E140097a507B07a5564bDe1bC375D9e6
-# - https://etherscan.io/token/0xBfE03707aDb75b478Add9A01978057803F480E44 (IMSMART): https://imsmart.io/
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xBfE03707aDb75b478Add9A01978057803F480E44
-
-# 'KICK' is shared by:
-# - https://etherscan.io/token/0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E (KickToken): https://www.kickico.com
-#   Price: $0.00 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-# 0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E
-# - https://etherscan.io/token/0xD91a6162F146EF85922d9A15eE6eB14A00344586 (Sessia Kicks): https://sessia.com
-#   Price: $0.05 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xD91a6162F146EF85922d9A15eE6eB14A00344586
-
-# 'LBK' is shared by:
-# - https://etherscan.io/token/0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6 (LBK): https://www.lbank.info/
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6
-# - https://etherscan.io/token/0xd9af2d11d788da0097076f4Eb21bd1C5533743D9 (Legal Block Token): https://legal-block.com/
-#   Price: $0.00 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xd9af2d11d788da0097076f4Eb21bd1C5533743D9
-
-# 'LIKE' is shared by:
-# - https://etherscan.io/token/0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98 (LikeCoin): https://like.co/
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-# 0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98
-# - https://etherscan.io/token/0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06 (LikeApp): -
-#   Price: $0.03 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06
-
-# 'LOCK' is shared by:
-# - https://etherscan.io/token/0x95172ccBe8344fecD73D0a30F54123652981BD6F (Meridian Network): https://meridian-network.co
-#   Price: $0.04 Market cap: $435,728.15 (2021-06-23T13:50:46.614452)
-# 0x95172ccBe8344fecD73D0a30F54123652981BD6F
-# - https://etherscan.io/token/0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90 (LOCK): https://sherlocksecurity.io
-#   Price: $0.50 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90
-
-# 'MPH' is shared by:
-# - https://etherscan.io/token/0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38 (Morpher Token): https://morpher.com
-#   Price: $0.02 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38
-# - https://etherscan.io/token/0x8888801aF4d980682e47f1A9036e589479e835C5 (88mph.app): https://88mph.app
-#   Price: $27.50 Market cap: $10,024,677.74 (2021-06-23T13:50:46.614452)
-# 0x8888801aF4d980682e47f1A9036e589479e835C5
-
-# 'NDX' is shared by:
-# - https://etherscan.io/token/0x1966d718A565566e8E202792658D7b5Ff4ECe469 (nDEX): https://ndexnetwork.com
-#   Price: $0.00 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x1966d718A565566e8E202792658D7b5Ff4ECe469
-# - https://etherscan.io/token/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83 (Indexed Finance): https://indexed.finance
-#   Price: $4.21 Market cap: $14,523,266.00 (2021-06-23T13:50:46.614452)
-# 0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83
-
-# 'ORS' is shared by:
-# - https://etherscan.io/token/0xEB9A4B185816C354dB92DB09cC3B50bE60b901b6 (OriginSport Token): https://originsport.io
-#   Price: $0.00 Market cap: $881,833.68 (2021-06-23T13:50:46.614452)
-# 0xEB9A4B185816C354dB92DB09cC3B50bE60b901b6
-# - https://etherscan.io/token/0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA (ORS Token): https://www.orsgroup.io/
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA
-
-# 'PLA' is shared by:
-# - https://etherscan.io/token/0x0198f46f520F33cd4329bd4bE380a25a90536CD5 (PlayChip): https://www.playchip.global/
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-# 0x0198f46f520F33cd4329bd4bE380a25a90536CD5
-# - https://etherscan.io/token/0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4 (PLANET): https://planet-world.io
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4
-
-# 'SGT' is shared by:
-# - https://etherscan.io/token/0x84810bcF08744d5862B8181f12d17bfd57d3b078 (SharedStake Governance Token): https://www.sharedstake.org
-#   Price: $0.07 Market cap: $35,257.45 (2021-06-23T13:50:46.614452)
-# 0x84810bcF08744d5862B8181f12d17bfd57d3b078
-# - https://etherscan.io/token/0xc4199fB6FFDb30A829614becA030f9042f1c3992 (snglsDAO Governance Token): https://snglsDAO.io
-#   Price: $0.00 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xc4199fB6FFDb30A829614becA030f9042f1c3992
-
-# 'TIME' is shared by:
-# - https://etherscan.io/token/0x485d17A6f1B8780392d53D64751824253011A260 (ChronoTech TIME): https://chrono.tech
-#   Price: $18.55 Market cap: $13,171,547.36 (2021-06-23T13:50:46.614452)
-# 0x485d17A6f1B8780392d53D64751824253011A260
-# - https://etherscan.io/token/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e (TimeMiner): https://TimeMiner.site
-#   Price: $1.86 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0xA54C67bd320Da4F9725a6f585b7635a0c09B122e
-
-# 'YAM' is shared by:
-# - https://etherscan.io/token/0x0AaCfbeC6a24756c20D41914F2caba817C0d8521 (YAM): https://yam.finance/
-#   Price: $0.79 Market cap: $9,796,300.24 (2021-06-23T13:50:46.614452)
-# 0x0AaCfbeC6a24756c20D41914F2caba817C0d8521
-# - https://etherscan.io/token/0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16 (YAM): http://yam.finance
-#   Price: $0.00 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16
-
-# 'ZB' is shared by:
-# - https://etherscan.io/token/0x182A603541a4483c308475147D621bbB4E2587c6 (ZBToken): https://zerobank.cash/
-#   Price: $0.01 Market cap: $0.00 (2021-06-23T13:50:46.614452)
-0x182A603541a4483c308475147D621bbB4E2587c6
-# - https://etherscan.io/token/0xBd0793332e9fB844A52a205A233EF27a5b34B927 (ZB Token): https://zb.com
-#   Price: $0.32 Market cap: $28,990,334.95 (2021-06-23T13:50:46.614452)
-# 0xBd0793332e9fB844A52a205A233EF27a5b34B927
-
-# 'STX' (Stox) conflicts with Stacks (STX):
-# - https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45 (Stox): https://www.stox.com/
-0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45
-
-# 'TRY' (Trias Token) conflics with the Turkish Lira (TRY):
-# - https://etherscan.io/token/0xe431a4c5DB8B73c773e06cf2587dA1EB53c41373 (Trias Token): https://www.trias.one
-0xe431a4c5DB8B73c773e06cf2587dA1EB53c41373
-
-# 'uSD' is shared by:
-# - https://etherscan.io/token/0x44086035439E676c02D411880FcCb9837CE37c57 (unified Stable Dollar): https://unifihub.com
-#   Price: $0.650041 Market cap: $0.00 (2021-06-25T10:45:07.776396)
-0x44086035439E676c02D411880FcCb9837CE37c57
-# - https://etherscan.io/token/0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8 (Wrapped USD): https://covenants.eth.link
-#   Price: $0.990892 Market cap: $0.00 (2021-06-25T10:45:07.776396)
-0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8
-
-# 'AXS' is shared by:
-# - https://etherscan.io/token/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b (Axie Infinity Shard): https://axieinfinity.com
-#   Price: $46.560000 Market cap: $2,539,484,896.43 (2021-07-28T12:25:44.730742)
-# 0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b
-# - https://etherscan.io/token/0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28 (AXIS Token): https://axistoken.io
-#   Price: $0.089745 Market cap: $0.00 (2021-07-28T12:25:44.730742)
-0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28
-
-# Disabling the original LUNA token to override its symbol with 'WLUNA':
-0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9
-
-# Disabling the original DAI token to override its name:
-0x6B175474E89094C44Da98b954EedeAC495271d0F
-
-# 'BANK' is shared by:
-# - https://etherscan.io/token/0x24A6A37576377F63f194Caa5F518a60f45b42921 (Float BANK): https://floatprotocol.com/
-#   Price: $109.070000 Market cap: $18,714,766.93 (2021-10-07T18:07:53.384094)
-# 0x24A6A37576377F63f194Caa5F518a60f45b42921
-# - https://etherscan.io/token/0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198 (Bankless DAO): https://bankless.community
-#   Price: $0.087106 Market cap: $22,460,378.22 (2021-10-07T18:07:53.384094)
-0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198
-#
-# 'BIRD' is shared by:
-# - https://etherscan.io/token/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d (BirdCoin): https://www.birdchain.io/
-#   Price: $0.001300 Market cap: $0.00 (2021-10-07T18:07:53.384094)
-0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d
-# - https://etherscan.io/token/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0 (Bird.Money (BIRD)): https://bird.money
-#   Price: $78.660000 Market cap: $6,913,237.78 (2021-10-07T18:07:53.384094)
-# 0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0
-#
-# 'CLV' is shared by:
-# - https://etherscan.io/token/0x22222C03318440305aC3e8a7820563d6A9FD777F (Clover): https://clv.surge.sh/
-#   Price: $7.050000 Market cap: $0.00 (2021-10-07T18:07:53.384094)
-# 0x22222C03318440305aC3e8a7820563d6A9FD777F
-# - https://etherscan.io/token/0x80C62FE4487E1351b47Ba49809EBD60ED085bf52 (Clover Finance): https://clover.finance
-#   Price: $1.210000 Market cap: $156,500,192.05 (2021-10-07T18:07:53.384094)
-0x80C62FE4487E1351b47Ba49809EBD60ED085bf52
-#
-# 'CRC' is shared by:
-# - https://etherscan.io/token/0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077 (CryCash Token): https://crycash.io/
-#   Price: $0.027629 Market cap: $133,723.83 (2021-10-07T18:07:53.384094)
-# 0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077
-# - https://etherscan.io/token/0xFB19C03a02a519a44542343803F3D42578CBc243 (CR Coin): https://crcoinico.com/
-#   Price: $3.720000 Market cap: $0.00 (2021-10-07T18:07:53.384094)
-0xFB19C03a02a519a44542343803F3D42578CBc243
-#
-# 'DATA' is shared by:
-# - https://etherscan.io/token/0x0Cf0Ee63788A0849fE5297F3407f701E122cC023 (Streamr DATAcoin): https://streamr.com
-#   Price: $0.123411 Market cap: $86,051,188.07 (2021-10-07T18:07:53.384094)
-# 0x0Cf0Ee63788A0849fE5297F3407f701E122cC023
-# - https://etherscan.io/token/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1 (Data Economy Index): https://www.indexcoop.com/data
-#   Price: $93.440000 Market cap: $1,370,819.47 (2021-10-07T18:07:53.384094)
-0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1
-#
-# 'EGG' is shared by:
-# - https://etherscan.io/token/0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c (Nestree): https://www.nestree.io/
-#   Price: $0.004452 Market cap: $0.00 (2021-10-07T18:07:53.384094)
-# 0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c
-# - https://etherscan.io/token/0xd0983dD6a0334c71d0478255D1F794508026b888 (EGG Protocol): https://cocoricos.io/
-#   Price: $0.019018 Market cap: $0.00 (2021-10-07T18:07:53.384094)
-0xd0983dD6a0334c71d0478255D1F794508026b888
-#
-
-# 'BLANK' is shared by:
-# - https://etherscan.io/token/0x41A3Dba3D677E573636BA691a70ff2D606c29666 (GoBlank): https://www.goblank.io
-#   Price: $0.469728 Market cap: $10,293,097.70 (2021-10-08T16:30:08.872714)
-0x41A3Dba3D677E573636BA691a70ff2D606c29666
-# - https://etherscan.io/token/0xAec7e1f531Bb09115103C53ba76829910Ec48966 (Blank): https://www.goblank.io
-#   Price: $0.000000 Market cap: $0.00 (2021-10-08T16:30:08.872714)
-# 0xAec7e1f531Bb09115103C53ba76829910Ec48966
-#
-
-# 'AME' is shared by:
+# 'ame' is shared by:
 # - https://etherscan.io/token/0x12513335ffD5DAfc2334e98625d27c1CA84bff86 (AME Token): https://amepay.io/
 # 0x12513335ffD5DAfc2334e98625d27c1CA84bff86
 # - https://etherscan.io/token/0xA099759772491738B18AE99F169157E60d16fbF7 (Americoin): https://ameriethe.com
 0xA099759772491738B18AE99F169157E60d16fbF7
 #
-# 'ANT' is shared by:
+# 'ant' is shared by:
 # - https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0 (Aragon (old)): https://aragon.org
 0x960b236A07cf122663c4303350609A66A7B288C0
 # - https://etherscan.io/token/0xa117000000f279D81A1D3cc75430fAA017FA5A2e (Aragon): https://aragon.org
 # 0xa117000000f279D81A1D3cc75430fAA017FA5A2e
 #
-# 'ART' is shared by:
+# 'ape' is shared by:
+# - https://etherscan.io/token/0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc (APEcoin): https://APEcoin.dev
+0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc
+# - https://etherscan.io/token/0x4d224452801ACEd8B2F0aebE155379bb5D594381 (ApeCoin): https://apecoin.com
+# 0x4d224452801ACEd8B2F0aebE155379bb5D594381
+#
+# 'art' is shared by:
 # - https://etherscan.io/token/0xE51f24B251430A6e615f66e0d3c3A97c442aB38C (ART Token): https://arttoken.io/
 0xE51f24B251430A6e615f66e0d3c3A97c442aB38C
-# - https://etherscan.io/token/0xc327DaF071fb374dcB2AfD28797fC58F096A8b1F (Aroma Token):
+# - https://etherscan.io/token/0xc327DaF071fb374dcB2AfD28797fC58F096A8b1F (Aroma Token): 
 0xc327DaF071fb374dcB2AfD28797fC58F096A8b1F
 # - https://etherscan.io/token/0xfec0cF7fE078a500abf15F1284958F22049c2C7e (Maecenas ART Token): https://www.maecenas.co/
 # 0xfec0cF7fE078a500abf15F1284958F22049c2C7e
 #
-# 'AT' is shared by:
+# 'at' is shared by:
 # - https://etherscan.io/token/0xE54B3458C47E44C37a267E7C633AFEF88287C294 (ArtFinity): http://www.jueyi.art
 # 0xE54B3458C47E44C37a267E7C633AFEF88287C294
 # - https://etherscan.io/token/0xaa26931EBbA45B69834Eb35fe3315caB4b1e97fe (AWARE Token): https://at.top/
 0xaa26931EBbA45B69834Eb35fe3315caB4b1e97fe
 #
-# 'ATB' is shared by:
+# 'atb' is shared by:
 # - https://etherscan.io/token/0x2C66164F7a8564dCAAadcA8319b9f917ac418E4e (ATBank): https://atbankdigital.com/
 0x2C66164F7a8564dCAAadcA8319b9f917ac418E4e
 # - https://etherscan.io/token/0x31371618e52a1dCD55Caa07f6E81628Bd4371585 (ATBank): https://defi.atbankdigital.com
 # 0x31371618e52a1dCD55Caa07f6E81628Bd4371585
 #
-# 'BNT' is shared by:
+# 'axs' is shared by:
+# - https://etherscan.io/token/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b (Axie Infinity Shard): https://axieinfinity.com
+# 0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b
+# - https://etherscan.io/token/0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28 (AXIS Token): https://axistoken.io
+0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28
+#
+# 'bank' is shared by:
+# - https://etherscan.io/token/0x24A6A37576377F63f194Caa5F518a60f45b42921 (Float BANK): https://floatprotocol.com/
+# 0x24A6A37576377F63f194Caa5F518a60f45b42921
+# - https://etherscan.io/token/0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198 (Bankless DAO): https://bankless.community
+0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198
+#
+# 'bid' is shared by:
+# - https://etherscan.io/token/0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288 (DefiBids): https://defibids.com
+0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288
+# - https://etherscan.io/token/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa (Bidao): https://bidaochain.com/
+0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa
+#
+# 'bird' is shared by:
+# - https://etherscan.io/token/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d (BirdCoin): https://www.birdchain.io/
+0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d
+# - https://etherscan.io/token/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0 (Bird.Money): https://bird.money
+# 0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0
+#
+# 'bnt' is shared by:
 # - https://etherscan.io/token/0x139838869D3E1AB94C798917840dA1c079103c84 (Binantex): https://binantex.com
 0x139838869D3E1AB94C798917840dA1c079103c84
 # - https://etherscan.io/token/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C (Bancor): https://bancor.network
 # 0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C
 #
-# 'BPT' is shared by:
+# 'bond' is shared by:
+# - https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f (BarnBridge): https://BarnBridge.com
+# 0x0391D2021f89DC339F60Fff84546EA23E337750f
+# - https://etherscan.io/token/0x5Dc02Ea99285E17656b8350722694c35154DB1E8 (BOND): https://bonded.finance/
+0x5Dc02Ea99285E17656b8350722694c35154DB1E8
+#
+# 'box' is shared by:
+# - https://etherscan.io/token/0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f (BOX Token): https://contentbox.one/
+# 0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f
+# - https://etherscan.io/token/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD (BOX Token): https://box.la
+0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD
+#
+# 'bpt' is shared by:
 # - https://etherscan.io/token/0x283669123bd83dA2536bB534e20512101c18E5D8 (Bitpayer Token): https://bitpayer.io/
 # 0x283669123bd83dA2536bB534e20512101c18E5D8
 # - https://etherscan.io/token/0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8 (Blockport Token): https://getbux.com/bux-crypto
 0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8
 #
-# 'CARD' is shared by:
+# 'btr' is shared by:
+# - https://etherscan.io/token/0x499A6B77bc25C26bCf8265E2102B1B3dd1617024 (Bitether): 
+0x499A6B77bc25C26bCf8265E2102B1B3dd1617024
+# - https://etherscan.io/token/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5 (Bitrue Coin): https://www.bitrue.com/
+# 0xd433138d12beB9929FF6fd583DC83663eea6Aaa5
+#
+# 'card' is shared by:
 # - https://etherscan.io/token/0x954b890704693af242613edEf1B603825afcD708 (Cardstack): https://cardstack.com
 # 0x954b890704693af242613edEf1B603825afcD708
-# - https://etherscan.io/token/0xB07ec2c28834B889b1CE527Ca0F19364cD38935c (Cardstack):
+# - https://etherscan.io/token/0xB07ec2c28834B889b1CE527Ca0F19364cD38935c (Cardstack): 
 0xB07ec2c28834B889b1CE527Ca0F19364cD38935c
 #
-# 'COIN' is shared by:
+# 'cdai' is shared by:
+# - https://etherscan.io/token/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643 (Compound Dai): https://compound.finance/
+# 0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643
+# - https://etherscan.io/token/0xF5DCe57282A584D2746FaF1593d3121Fcac444dC (Compound Dai): https://compound.finance/
+0xF5DCe57282A584D2746FaF1593d3121Fcac444dC
+#
+# 'clv' is shared by:
+# - https://etherscan.io/token/0x22222C03318440305aC3e8a7820563d6A9FD777F (Clover): https://clv.surge.sh/
+# 0x22222C03318440305aC3e8a7820563d6A9FD777F
+# - https://etherscan.io/token/0x80C62FE4487E1351b47Ba49809EBD60ED085bf52 (Clover Finance): https://clover.finance
+0x80C62FE4487E1351b47Ba49809EBD60ED085bf52
+#
+# 'coin' is shared by:
 # - https://etherscan.io/token/0x69b9e58Dcc2680cf07c66399b7E50670F7452459 (Coinverter.info): https://coinverter.info
 0x69b9e58Dcc2680cf07c66399b7E50670F7452459
-# - https://etherscan.io/token/0xE61fDAF474Fac07063f2234Fb9e60C1163Cfa850 (Coin (COIN)): https://coindefi.org
+# - https://etherscan.io/token/0x87b008E57F640D94Ee44Fd893F0323AF933F9195 (Coin Artist): https://medium.com/@coin_artist_17801
+0x87b008E57F640D94Ee44Fd893F0323AF933F9195
+# - https://etherscan.io/token/0xE61fDAF474Fac07063f2234Fb9e60C1163Cfa850 (COIN): https://coindefi.org
 # 0xE61fDAF474Fac07063f2234Fb9e60C1163Cfa850
 #
-# 'COS' is shared by:
+# 'cos' is shared by:
 # - https://etherscan.io/token/0x589891a198195061Cb8ad1a75357A3b7DbaDD7Bc (Contentos): https://www.contentos.io/
 # 0x589891a198195061Cb8ad1a75357A3b7DbaDD7Bc
 # - https://etherscan.io/token/0x7d3cb11f8c13730C24D01826d8F2005F0e1b348F (COS): https://coss.io/
 0x7d3cb11f8c13730C24D01826d8F2005F0e1b348F
 #
-# 'CRD' is shared by:
+# 'crc' is shared by:
+# - https://etherscan.io/token/0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077 (CryCash Token): https://crycash.io/
+# 0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077
+# - https://etherscan.io/token/0xFB19C03a02a519a44542343803F3D42578CBc243 (CR Coin): https://crcoinico.com/
+0xFB19C03a02a519a44542343803F3D42578CBc243
+#
+# 'crd' is shared by:
 # - https://etherscan.io/token/0x86E288793B6B9eb05f38758D166c44bF3d643Bcf (CreditDefi): https://creditdefi.org/
 0x86E288793B6B9eb05f38758D166c44bF3d643Bcf
 # - https://etherscan.io/token/0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC (CryptalDash): https://www.cryptaldash.com
 # 0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC
 #
-# 'CRO' is shared by:
+# 'cro' is shared by:
 # - https://etherscan.io/token/0x04bA6FC674D8B7f00C96d5d0a6872e7eb270Bd7C (CRO Decentralized Finance): https://crocryptocoin.com
 0x04bA6FC674D8B7f00C96d5d0a6872e7eb270Bd7C
 # - https://etherscan.io/token/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b (Crypto.com Coin): https://crypto.com/en/chain
 # 0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b
 #
-# 'CTC' is shared by:
+# 'ctc' is shared by:
 # - https://etherscan.io/token/0x00B7db6B4431e345eee5cc23D21E8dbC1d5cADA3 (CyberTronChain): https://cybertronchain.com/
 # 0x00B7db6B4431e345eee5cc23D21E8dbC1d5cADA3
 # - https://etherscan.io/token/0x6378930da9be7C90d824d7f113974741644d62dA (CTC): https://dapp.bmjcoin.com
 0x6378930da9be7C90d824d7f113974741644d62dA
 #
-# 'DAO' is shared by:
+# 'ctt' is shared by:
+# - https://etherscan.io/token/0x13c2B7F851E756415cF7d51d04dcF4F94A5b382E (CitexToken): https://www.citex.io/
+0x13c2B7F851E756415cF7d51d04dcF4F94A5b382E
+# - https://etherscan.io/token/0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235 (CASTWEET): https://www.castweet.com/
+# 0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235
+#
+# 'dao' is shared by:
 # - https://etherscan.io/token/0x0f51bb10119727a7e5eA3538074fb341F56B09Ad (DAO Maker): https://daomaker.com/
 0x0f51bb10119727a7e5eA3538074fb341F56B09Ad
 # - https://etherscan.io/token/0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413 (TheDAO): https://en.wikipedia.org/wiki/The_DAO_(organization)
 # 0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413
 #
-# 'DGX' is shared by:
+# 'data' is shared by:
+# - https://etherscan.io/token/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1 (Data Economy Index): https://www.indexcoop.com/data
+0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1
+# - https://etherscan.io/token/0x8f693ca8D21b157107184d29D398A8D082b38b76 (Streamr): https://streamr.network
+0x8f693ca8D21b157107184d29D398A8D082b38b76
+#
+# 'delta' is shared by:
+# - https://etherscan.io/token/0x9EA3b5b4EC044b70375236A281986106457b20EF (Delta Financial): https://delta.financial
+0x9EA3b5b4EC044b70375236A281986106457b20EF
+# - https://etherscan.io/token/0xDE1E0AE6101b46520cF66fDC0B1059c5cC3d106c (DeltaChain Token): https://deltachain.tech/
+# 0xDE1E0AE6101b46520cF66fDC0B1059c5cC3d106c
+#
+# 'dgx' is shared by:
 # - https://etherscan.io/token/0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF (Digix Gold Token): http://digix.io/
 # 0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF
-# - https://etherscan.io/token/0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855 (DigixGold):
+# - https://etherscan.io/token/0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855 (DigixGold): 
 0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855
 #
-# 'DHT' is shared by:
+# 'dht' is shared by:
 # - https://etherscan.io/token/0x5555e6B8e710BBCd7804f5172395b87c09621f80 (Dolphin Token): revi.network
 0x5555e6B8e710BBCd7804f5172395b87c09621f80
 # - https://etherscan.io/token/0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84 (dHEDGE DAO Token): https://dhedge.org
 # 0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84
 #
-# 'GET' is shared by:
+# 'ecu' is shared by:
+# - https://etherscan.io/token/0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5 (ECOSCU): https://www.ecosc.io
+0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5
+# - https://etherscan.io/token/0xd3CDc4e75750DC1e59F8342200742B6B29490e70 (Decurian): https://ecucoins.com/
+# 0xd3CDc4e75750DC1e59F8342200742B6B29490e70
+#
+# 'egg' is shared by:
+# - https://etherscan.io/token/0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c (Nestree): https://www.nestree.io/
+# 0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c
+# - https://etherscan.io/token/0xd0983dD6a0334c71d0478255D1F794508026b888 (EGG Protocol): https://cocoricos.io/
+0xd0983dD6a0334c71d0478255D1F794508026b888
+#
+# 'emax' is shared by:
+# - https://etherscan.io/token/0x15874d65e649880c2614e7a480cb7c9A55787FF6 (EthereumMax): https://www.ethereummax.org/
+# 0x15874d65e649880c2614e7a480cb7c9A55787FF6
+# - https://etherscan.io/token/0xA3E059c0b01F07F211c85bF7b4f1d907AfB011df (EthereumMax (Deprecated)): https://www.ethereummax.org/
+0xA3E059c0b01F07F211c85bF7b4f1d907AfB011df
+#
+# 'evc' is shared by:
+# - https://etherscan.io/token/0xAa843f65872a25D6E9552eA0B360Fb1d5E333124 (EVC): https://ecovaluecoin.com
+0xAa843f65872a25D6E9552eA0B360Fb1d5E333124
+# - https://etherscan.io/token/0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F (EventChain): https://eventchain.io
+# 0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F
+#
+# 'game' is shared by:
+# - https://etherscan.io/token/0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437 (GAME Credits): https://gamecredits.org
+# 0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437
+# - https://etherscan.io/token/0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c (MetaPortal Gaming Index): https://www.metaportal.wtf/
+0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c
+#
+# 'gene' is shared by:
+# - https://etherscan.io/token/0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D (GENE TOKEN (PARKGENE)): https://parkgene.io
+# 0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D
+# - https://etherscan.io/token/0x884181554dfA9e578d36379919C05C25dC4a15bB (Gene Source Code Chain): http://www.gscchain.org
+0x884181554dfA9e578d36379919C05C25dC4a15bB
+#
+# 'get' is shared by:
 # - https://etherscan.io/token/0x60c68a87bE1E8a84144b543AAcfA77199cd3d024 (Themis): https://themis.network
 # 0x60c68a87bE1E8a84144b543AAcfA77199cd3d024
 # - https://etherscan.io/token/0x8a854288a5976036A725879164Ca3e91d30c6A1B (GET): https://get-protocol.io
 0x8a854288a5976036A725879164Ca3e91d30c6A1B
 #
-# 'GMB' is shared by:
+# 'gmb' is shared by:
 # - https://etherscan.io/token/0x1d464Ac5e046e5fE280c9588eDF8eB681b07008F (GMB): https://gmbplatform.io/
 0x1d464Ac5e046e5fE280c9588eDF8eB681b07008F
 # - https://etherscan.io/token/0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee (GMB): https://gamb.io
 # 0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee
 #
-# 'HUB' is shared by:
+# 'grt' is shared by:
+# - https://etherscan.io/token/0xb83Cd8d39462B761bb0092437d38b37812dd80A2 (GoldenRatio): https://goldenratiotoken.site/
+0xb83Cd8d39462B761bb0092437d38b37812dd80A2
+# - https://etherscan.io/token/0xc944E90C64B2c07662A292be6244BDf05Cda44a7 (The Graph): https://thegraph.com
+# 0xc944E90C64B2c07662A292be6244BDf05Cda44a7
+#
+# 'gtc' is shared by:
+# - https://etherscan.io/token/0xB70835D7822eBB9426B56543E391846C107bd32C (Game.com Token): http://www.game.com
+0xB70835D7822eBB9426B56543E391846C107bd32C
+# - https://etherscan.io/token/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F (Gitcoin): https://gitcoin.co/quadraticlands/
+# 0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F
+#
+# 'hot' is shared by:
+# - https://etherscan.io/token/0x6c6EE5e31d828De241282B9606C8e98Ea48526E2 (Holo): https://holochain.org
+# 0x6c6EE5e31d828De241282B9606C8e98Ea48526E2
+# - https://etherscan.io/token/0x9AF839687F6C94542ac5ece2e317dAAE355493A1 (Hydro Protocol): https://hydroprotocol.io
+0x9AF839687F6C94542ac5ece2e317dAAE355493A1
+#
+# 'hub' is shared by:
 # - https://etherscan.io/token/0x4790f605CBDBa5fCe4F209868B5A05B3bFf7272c (HUB): https://swaphub.finance/
 0x4790f605CBDBa5fCe4F209868B5A05B3bFf7272c
 # - https://etherscan.io/token/0xba358B6f5b4c0215650444B8C30D870B55050D2D (Hub): https://hubtoken.org
 # 0xba358B6f5b4c0215650444B8C30D870B55050D2D
 #
-# 'MAD' is shared by:
+# 'ichi' is shared by:
+# - https://etherscan.io/token/0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6 (ICHI): app.ichi.org
+0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6
+# - https://etherscan.io/token/0x903bEF1736CDdf2A537176cf3C64579C3867A881 (Legacy ICHI): app.ichi.org
+# 0x903bEF1736CDdf2A537176cf3C64579C3867A881
+#
+# 'imt' is shared by:
+# - https://etherscan.io/token/0x13119E34E140097a507B07a5564bDe1bC375D9e6 (MoneyToken): http://moneytoken.eu/
+# 0x13119E34E140097a507B07a5564bDe1bC375D9e6
+# - https://etherscan.io/token/0xBfE03707aDb75b478Add9A01978057803F480E44 (IMSMART): https://imsmart.io/
+0xBfE03707aDb75b478Add9A01978057803F480E44
+#
+# 'lbk' is shared by:
+# - https://etherscan.io/token/0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6 (LBK): https://www.lbank.info/
+0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6
+# - https://etherscan.io/token/0xd9af2d11d788da0097076f4Eb21bd1C5533743D9 (Legal Block Token): https://legal-block.com/
+0xd9af2d11d788da0097076f4Eb21bd1C5533743D9
+#
+# 'like' is shared by:
+# - https://etherscan.io/token/0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98 (LikeCoin): https://like.co/
+# 0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98
+# - https://etherscan.io/token/0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06 (LikeApp): -
+0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06
+#
+# 'mad' is shared by:
 # - https://etherscan.io/token/0x5B09A0371C1DA44A8E24D36Bf5DEb1141a84d875 (MadNetwork): http://madnetwork.com
 # 0x5B09A0371C1DA44A8E24D36Bf5DEb1141a84d875
-# - https://etherscan.io/token/0x7DE580D247D0f5d72c522b2750089E18f26e1cF9 (MadCripto):
+# - https://etherscan.io/token/0x7DE580D247D0f5d72c522b2750089E18f26e1cF9 (MadCripto): 
 0x7DE580D247D0f5d72c522b2750089E18f26e1cF9
 #
-# 'MATTER' is shared by:
+# 'matter' is shared by:
 # - https://etherscan.io/token/0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F (Antimatter.Finance Governance Token): https://antimatter.finance/
 0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F
 # - https://etherscan.io/token/0x9B99CcA871Be05119B2012fd4474731dd653FEBe (Antimatter.Finance Governance Token): https://antimatter.finance/
 # 0x9B99CcA871Be05119B2012fd4474731dd653FEBe
 #
-# 'MDS' is shared by:
+# 'mcc' is shared by:
+# - https://etherscan.io/token/0x13d6b121817D78faC403Ebf2C59c0C93583991df (MccCoin): 
+# 0x13d6b121817D78faC403Ebf2C59c0C93583991df
+# - https://etherscan.io/token/0xC146B7CdBaff065090077151d391f4c96Aa09e0C (Multi-Chain Capital): https://mchain.capital/
+0xC146B7CdBaff065090077151d391f4c96Aa09e0C
+#
+# 'mds' is shared by:
 # - https://etherscan.io/token/0x0290B327A8583bD6FA63c130B732a808864e55Fc (MIDAS): https://midas-defi.finance
 0x0290B327A8583bD6FA63c130B732a808864e55Fc
 # - https://etherscan.io/token/0x66186008C1050627F979d464eABb258860563dbE (MediShares Token): http://www.medishares.org/
 # 0x66186008C1050627F979d464eABb258860563dbE
 #
-# 'MKR' is shared by:
+# 'mkr' is shared by:
 # - https://etherscan.io/token/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2 (Maker): https://makerdao.com
 # 0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2
-# - https://etherscan.io/token/0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d (MKR):
+# - https://etherscan.io/token/0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d (MKR): 
 0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d
 #
-# 'REP' is shared by:
+# 'mph' is shared by:
+# - https://etherscan.io/token/0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38 (Morpher Token): https://morpher.com
+0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38
+# - https://etherscan.io/token/0x8888801aF4d980682e47f1A9036e589479e835C5 (88mph.app): https://88mph.app
+# 0x8888801aF4d980682e47f1A9036e589479e835C5
+#
+# 'ndx' is shared by:
+# - https://etherscan.io/token/0x1966d718A565566e8E202792658D7b5Ff4ECe469 (nDEX): https://ndexnetwork.com
+0x1966d718A565566e8E202792658D7b5Ff4ECe469
+# - https://etherscan.io/token/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83 (Indexed Finance): https://indexed.finance
+# 0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83
+#
+# 'ntk' is shared by:
+# - https://etherscan.io/token/0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C (Netkoin): https://netkoin.com
+0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C
+# - https://etherscan.io/token/0x69BEaB403438253f13b6e92Db91F7FB849258263 (NeuroToken): https://neuromation.io
+# 0x69BEaB403438253f13b6e92Db91F7FB849258263
+#
+# 'opt' is shared by:
+# - https://etherscan.io/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0 (Opus Token): http://opus-foundation.org/
+0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0
+# - https://etherscan.io/token/0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda (OpenPredict): https://openpredict.io/
+# 0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda
+#
+# 'ors' is shared by:
+# - https://etherscan.io/token/0xEB9A4B185816C354dB92DB09cC3B50bE60b901b6 (OriginSport Token): https://originsport.io
+# 0xEB9A4B185816C354dB92DB09cC3B50bE60b901b6
+# - https://etherscan.io/token/0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA (ORS Token): https://www.orsgroup.io/
+0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA
+#
+# 'par' is shared by:
+# - https://etherscan.io/token/0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06 (Parachute): https://www.parachutetoken.com/
+# 0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06
+# - https://etherscan.io/token/0x68037790A0229e9Ce6EaA8A99ea92964106C4703 (PAR Stablecoin (PAR)): https://mimo.capital
+0x68037790A0229e9Ce6EaA8A99ea92964106C4703
+#
+# 'pay' is shared by:
+# - https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280 (TenX Pay Token): https://www.tenx.tech/
+# 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280
+# - https://etherscan.io/token/0xe580074A10360404AF3ABfe2d524D5806D993ea3 (PayBolt): https://www.paybolt.io/
+0xe580074A10360404AF3ABfe2d524D5806D993ea3
+#
+# 'pla' is shared by:
+# - https://etherscan.io/token/0x0198f46f520F33cd4329bd4bE380a25a90536CD5 (PlayChip): https://www.playchip.global/
+0x0198f46f520F33cd4329bd4bE380a25a90536CD5
+# - https://etherscan.io/token/0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4 (PLANET): http://planet-world.io/index_english.html
+0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4
+#
+# 'pnt' is shared by:
+# - https://etherscan.io/token/0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3 (Penta Network Token): https://www.penta.global
+0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3
+# - https://etherscan.io/token/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD (pNetwork): https://p.network
+# 0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD
+#
+# 'rai' is shared by:
+# - https://etherscan.io/token/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919 (Rai Reflex Index): https://reflexer.finance
+# 0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919
+# - https://etherscan.io/token/0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f (Rai Finance): https://rai.finance
+0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f
+#
+# 'rare' is shared by:
+# - https://etherscan.io/token/0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D (Rare): 
+0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D
+# - https://etherscan.io/token/0xba5BDe662c17e2aDFF1075610382B9B691296350 (SuperRare): https://superrare.com/
+# 0xba5BDe662c17e2aDFF1075610382B9B691296350
+#
+# 'rep' is shared by:
 # - https://etherscan.io/token/0x1985365e9f78359a9B6AD760e32412f4a445E862 (Augur): http://augur.net
 # 0x1985365e9f78359a9B6AD760e32412f4a445E862
-# - https://etherscan.io/token/0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5 (0x52657075746174696f6e00000000000000000000000000000000000000000000):
+# - https://etherscan.io/token/0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5 (0x52657075746174696f6e00000000000000000000000000000000000000000000): 
 0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5
 #
-# 'SNX' is shared by:
+# 'seth' is shared by:
+# - https://etherscan.io/token/0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb (Synth sETH): https://www.synthetix.io/
+# 0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb
+# - https://etherscan.io/token/0xbEe9Cf658702527b0AcB2719c1FAA29EdC006a92 (Strike ETH): https://strike.org
+0xbEe9Cf658702527b0AcB2719c1FAA29EdC006a92
+#
+# 'sgt' is shared by:
+# - https://etherscan.io/token/0x84810bcF08744d5862B8181f12d17bfd57d3b078 (SharedStake Governance Token): https://www.sharedstake.org
+# 0x84810bcF08744d5862B8181f12d17bfd57d3b078
+# - https://etherscan.io/token/0xc4199fB6FFDb30A829614becA030f9042f1c3992 (snglsDAO Governance Token): https://snglsDAO.io
+0xc4199fB6FFDb30A829614becA030f9042f1c3992
+#
+# 'slink' is shared by:
+# - https://etherscan.io/token/0x10Bae51262490B4f4AF41e12eD52A0E744c1137A (Soft Link): https://slink.finance/
+# 0x10Bae51262490B4f4AF41e12eD52A0E744c1137A
+# - https://etherscan.io/token/0x3F3B3B269d9f7088B022290906acff8710914be1 (Strike LINK): https://strike.org
+0x3F3B3B269d9f7088B022290906acff8710914be1
+#
+# 'snx' is shared by:
 # - https://etherscan.io/token/0xC011A72400E58ecD99Ee497CF89E3775d4bd732F (Synthetix Network Token): https://synthetix.io
 0xC011A72400E58ecD99Ee497CF89E3775d4bd732F
-# - https://etherscan.io/token/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F (Synthetix Network): https://synthetix.io
+# - https://etherscan.io/token/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F (Synthetix): https://synthetix.io
 # 0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F
 #
-# 'SURE' is shared by:
-# - https://etherscan.io/token/0xb5a4ac5b04E777230bA3381195EfF6a60c3934F2 (inSure): https://insuretoken.net
-0xb5a4ac5b04E777230bA3381195EfF6a60c3934F2
-# - https://etherscan.io/token/0xcb86c6A22CB56B6cf40CaFEDb06BA0DF188a416E (inSure): https://insuretoken.net/
-# 0xcb86c6A22CB56B6cf40CaFEDb06BA0DF188a416E
+# 'team' is shared by:
+# - https://etherscan.io/token/0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7 (TEAM): https://tokenstars.com
+# 0x1c79ab32C66aCAa1e9E81952B8AAa581B43e54E7
+# - https://etherscan.io/token/0xb05AF453011d7ad68a92b0065FFD9d1277eD2741 (Team Finance): https://team.finance
+0xb05AF453011d7ad68a92b0065FFD9d1277eD2741
 #
-# 'TIME' is shared by:
+# 'time' is shared by:
 # - https://etherscan.io/token/0x485d17A6f1B8780392d53D64751824253011A260 (ChronoTech TIME): https://chrono.tech
 # 0x485d17A6f1B8780392d53D64751824253011A260
 # - https://etherscan.io/token/0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53 (Chronobank TIME (EOL)): https://chronobank.io
 0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53
+# - https://etherscan.io/token/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e (TimeMiner): https://TimeMiner.site
+0xA54C67bd320Da4F9725a6f585b7635a0c09B122e
 #
-# 'TRU' is shared by:
+# 'tru' is shared by:
 # - https://etherscan.io/token/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784 (TrueFi): https://truefi.io/
 # 0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784
-# - https://etherscan.io/token/0xaD9355F782c6Ec75F134B93304b8F9a691a4432a (TERASU):
+# - https://etherscan.io/token/0xaD9355F782c6Ec75F134B93304b8F9a691a4432a (TERASU): 
 0xaD9355F782c6Ec75F134B93304b8F9a691a4432a
 #
-# 'TUSD' is shared by:
+# 'tusd' is shared by:
 # - https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376 (TrueUSD): https://www.trueusd.com/
 # 0x0000000000085d4780B73119b644AE5ecd22b376
-# - https://etherscan.io/token/0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E (TrueUSD (OLD)):
+# - https://etherscan.io/token/0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E (TrueUSD (OLD)): 
 0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E
 #
-# 'XTK' is shared by:
+# 'usdx' is shared by:
+# - https://etherscan.io/token/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3 (Dollars): https://dollarprotocol.com
+# 0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3
+# - https://etherscan.io/token/0xBec4A69D6A5fbCb2303c13D24ea1A51a6F19bd12 (USDX): -
+0xBec4A69D6A5fbCb2303c13D24ea1A51a6F19bd12
+#
+# 'ust' is shared by:
+# - https://etherscan.io/token/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD (UST Token): https://terra.money
+# 0xa47c8bf37f92aBed4A126BDA807A7b7498661acD
+# - https://etherscan.io/token/0xa693B19d2931d498c5B318dF961919BB4aee87a5 (UST (Wormhole)): https://wormholebridge.com
+0xa693B19d2931d498c5B318dF961919BB4aee87a5
+#
+# 'volt' is shared by:
+# - https://etherscan.io/token/0x3F7Aff0EF20AA2E646290DfA4E67611B2220C597 (Volt Inu): https://voltinu.in/
+0x3F7Aff0EF20AA2E646290DfA4E67611B2220C597
+# - https://etherscan.io/token/0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac (Volt Inu): https://voltinu.in
+# 0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac
+#
+# 'xtk' is shared by:
 # - https://etherscan.io/token/0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB (xToken): https://xtoken.market
 # 0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB
 # - https://etherscan.io/token/0xF96459323030137703483B46fD59A71D712BF0aa (XTAKE): https://xtake.finance/
 0xF96459323030137703483B46fD59A71D712BF0aa
 #
+# 'yam' is shared by:
+# - https://etherscan.io/token/0x0AaCfbeC6a24756c20D41914F2caba817C0d8521 (YAM): https://yam.finance/
+# 0x0AaCfbeC6a24756c20D41914F2caba817C0d8521
+# - https://etherscan.io/token/0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16 (YAM): http://yam.finance
+0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16
+#
+# 'yld' is shared by:
+# - https://etherscan.io/token/0xDcB01cc464238396E213a6fDd933E36796eAfF9f (Yield): https://yield.credit/
+0xDcB01cc464238396E213a6fDd933E36796eAfF9f
+# - https://etherscan.io/token/0xF94b5C5651c888d928439aB6514B93944eEE6F48 (Yield): https://yield.app
+# 0xF94b5C5651c888d928439aB6514B93944eEE6F48
+#
+# 'zb' is shared by:
+# - https://etherscan.io/token/0x182A603541a4483c308475147D621bbB4E2587c6 (ZBToken): https://zerobank.cash/
+0x182A603541a4483c308475147D621bbB4E2587c6
+# - https://etherscan.io/token/0xBd0793332e9fB844A52a205A233EF27a5b34B927 (ZB Token): https://zb.com
+# 0xBd0793332e9fB844A52a205A233EF27a5b34B927
+#
 
-# BNB
-0xB8c77482e45F1F44dE1745F52C74426C631bDD52
+# Manual Entries
 
 # EOS
 0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0
@@ -550,124 +481,9 @@
 # THETA
 0x3883f5e181fccaF8410FA61e12b59BAd963fb645
 
-# 'KUMA' is shared by:
-# - https://etherscan.io/token/0x48C276e8d03813224bb1e55F953adB6d02FD3E02 (Kuma Inu Token): https://kumatoken.com
-# 0x48C276e8d03813224bb1e55F953adB6d02FD3E02
-# - https://etherscan.io/token/0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5 (Kuma Inu Token): https://kumatoken.com
-0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5
-#
-# 'LTO' is shared by:
-# - https://etherscan.io/token/0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D (LTO Network Token): https://lto.network/
-# (Old)
-0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D
-# - https://etherscan.io/token/0xd01409314aCb3b245CEa9500eCE3F6Fd4d70ea30 (LTO Network): https://www.ltonetwork.com/
-# 0xd01409314aCb3b245CEa9500eCE3F6Fd4d70ea30
-#
-
-# 'PLA' is shared by:
-# - https://etherscan.io/token/0x0198f46f520F33cd4329bd4bE380a25a90536CD5 (PlayChip): https://www.playchip.global/
-0x0198f46f520F33cd4329bd4bE380a25a90536CD5
-# - https://etherscan.io/token/0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4 (PLANET): http://planet-world.io/index_english.html
-# 0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4
-#
-
-# Replace this RARE with 0xba5BDe662c17e2aDFF1075610382B9B691296350
-0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D
-
-# Use our own version of renBTC:
-# 0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D
-
-# 'APE' is shared by:
-# - https://etherscan.io/token/0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc (APEcoin): https://APEcoin.dev
-0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc
-# - https://etherscan.io/token/0x4d224452801ACEd8B2F0aebE155379bb5D594381 (ApeCoin (APE)): https://apecoin.com
-# 0x4d224452801ACEd8B2F0aebE155379bb5D594381
-#
-# 'BONDLY' is shared by:
-# - https://etherscan.io/token/0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9 (Bondly): https://www.bondly.finance
-0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9
-# - https://etherscan.io/token/0xD2dDa223b2617cB616c1580db421e4cFAe6a8a85 (Bondly): https://www.bondly.finance
-# 0xD2dDa223b2617cB616c1580db421e4cFAe6a8a85
-#
-# 'DATA' is shared by:
-# - https://etherscan.io/token/0x0Cf0Ee63788A0849fE5297F3407f701E122cC023 (Streamr DATAcoin): https://streamr.com
-# 0x0Cf0Ee63788A0849fE5297F3407f701E122cC023
-# - https://etherscan.io/token/0x8f693ca8D21b157107184d29D398A8D082b38b76 (Streamr): https://streamr.network
-0x8f693ca8D21b157107184d29D398A8D082b38b76
-#
-# 'ETHM' is shared by:
-# - https://etherscan.io/token/0x340eF83Ec8560892168D4062720F030460468656 (Ethereum Meta): https://ethermeta.com
-# 0x340eF83Ec8560892168D4062720F030460468656
-# - https://etherscan.io/token/0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794 (Ethereum Meta): https://ethermeta.com
-0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794
-#
-# 'FLOKI' is shared by:
-# - https://etherscan.io/token/0x43f11c02439e2736800433b4594994Bd43Cd066D (Floki Inu): https://theflokiinu.com
-# 0x43f11c02439e2736800433b4594994Bd43Cd066D
-# - https://etherscan.io/token/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E (FLOKI): https://floki.com
-0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E
-#
-# 'GAME' is shared by:
-# - https://etherscan.io/token/0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437 (GAME Credits): https://gamecredits.org
-# 0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437
-# - https://etherscan.io/token/0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c (MetaPortal Gaming Index): https://www.metaportal.wtf/
-0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c
-#
-# 'GTH' is shared by:
-# - https://etherscan.io/token/0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f (Gather): https://gather.network
-# 0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f
-# - https://etherscan.io/token/0xeb986DA994E4a118d5956b02d8b7c3C7CE373674 (Gather): https://gather.network
-0xeb986DA994E4a118d5956b02d8b7c3C7CE373674
-#
-# 'HOKK' is shared by:
-# - https://etherscan.io/token/0xC40AF1E4fEcFA05Ce6BAb79DcD8B373d2E436c4E (Hokkaidu Inu): https://hokk.finance/
-# 0xC40AF1E4fEcFA05Ce6BAb79DcD8B373d2E436c4E
-# - https://etherscan.io/token/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8 (Hokkaidu Inu): https://hokk.finance/
-0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8
-#
-# 'MCC' is shared by:
-# - https://etherscan.io/token/0x13d6b121817D78faC403Ebf2C59c0C93583991df (MccCoin):
-# 0x13d6b121817D78faC403Ebf2C59c0C93583991df
-# - https://etherscan.io/token/0xC146B7CdBaff065090077151d391f4c96Aa09e0C (Multi-Chain Capital): https://mchain.capital/
-0xC146B7CdBaff065090077151d391f4c96Aa09e0C
-#
-# 'NOKU' is shared by:
-# - https://etherscan.io/token/0x1fC52f1ABade452Dd4674477D4711951700b3d27 (NOKU): https://www.noku.io/
-# 0x1fC52f1ABade452Dd4674477D4711951700b3d27
-# - https://etherscan.io/token/0x8167D3B1024cB51A2DD1B4d889ddf7023420796a (NOKU v2): https://www.noku.io/
-0x8167D3B1024cB51A2DD1B4d889ddf7023420796a
-#
-# 'PAY' is shared by:
-# - https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280 (TenX Pay Token): https://www.tenx.tech/
-# 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280
-# - https://etherscan.io/token/0xe580074A10360404AF3ABfe2d524D5806D993ea3 (PayBolt): https://www.paybolt.io/
-0xe580074A10360404AF3ABfe2d524D5806D993ea3
-#
-# 'RPL' is shared by:
-# - https://etherscan.io/token/0xB4EFd85c19999D84251304bDA99E90B92300Bd93 (Rocket Pool): https://www.rocketpool.net
-# 0xB4EFd85c19999D84251304bDA99E90B92300Bd93
-# - https://etherscan.io/token/0xD33526068D116cE69F19A9ee46F0bd304F21A51f (Rocket Pool): https://rocketpool.net
-0xD33526068D116cE69F19A9ee46F0bd304F21A51f
-#
-# 'RSR' is shared by:
-# - https://etherscan.io/token/0x320623b8E4fF03373931769A31Fc52A4E78B5d70 (Reserve Rights): https://reserve.org
-0x320623b8E4fF03373931769A31Fc52A4E78B5d70
-# - https://etherscan.io/token/0x8762db106B2c2A0bccB3A80d1Ed41273552616E8 (Reserve Rights): https://reserve.org
-# 0x8762db106B2c2A0bccB3A80d1Ed41273552616E8
-#
-
-# 'RISE' is shared by:
-# - https://etherscan.io/token/0x0cD022ddE27169b20895e0e2B2B8A33B25e63579 (EverRise): https://www.everrise.com/ (migrated)
-0x0cD022ddE27169b20895e0e2B2B8A33B25e63579
-# - https://etherscan.io/token/0xC17c30e98541188614dF99239cABD40280810cA3 (EverRise): https://www.everrise.com/
-# 0xC17c30e98541188614dF99239cABD40280810cA3
-#
-# 'UST' is shared by:
-# - https://etherscan.io/token/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD (UST Token): https://terra.money
-# 0xa47c8bf37f92aBed4A126BDA807A7b7498661acD
-# - https://etherscan.io/token/0xa693B19d2931d498c5B318dF961919BB4aee87a5 (UST (Portal)): https://terra.money (Wormhole)
-0xa693B19d2931d498c5B318dF961919BB4aee87a5
-#
+# 'STX' (Stox) conflicts with Stacks (STX):
+# - https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45 (Stox): https://www.stox.com/
+0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45
 
 # Wormhole addresses:
 # ROSE - ROSE (Portal)
@@ -687,60 +503,38 @@
 # LUNA - LUNA (Portal)
 0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d
 
-# 'ICHI' is shared by:
-# - https://etherscan.io/token/0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6 (ICHI): app.ichi.org
-0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6
-# - https://etherscan.io/token/0x903bEF1736CDdf2A537176cf3C64579C3867A881 (Legacy ICHI): app.ichi.org
-# 0x903bEF1736CDdf2A537176cf3C64579C3867A881
-#
-# 'KIBA' is shared by:
-# - https://etherscan.io/token/0x005D1123878Fc55fbd56b54C73963b234a64af3c (Kiba Inu): https://kibainu.space
-# 0x005D1123878Fc55fbd56b54C73963b234a64af3c
-# - https://etherscan.io/token/0x4B2C54b80B77580dc02A0f6734d3BAD733F50900 (Kiba Inu): https://kibainu.space
-0x4B2C54b80B77580dc02A0f6734d3BAD733F50900
-#
-# 'USDD' is shared by:
+# Disabling the original LUNA token to override its symbol with 'WLUNA':
+0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9 # TODO Do we need to disable this to rename?
+
+# Disabling the original DAI token to override its name:
+0x6B175474E89094C44Da98b954EedeAC495271d0F # TODO Do we need to disable this to rename?
+
+# Disabling assets with 'usd' symbol
+# - https://etherscan.io/token/0x44086035439E676c02D411880FcCb9837CE37c57 (unified Stable Dollar): https://unifihub.com
+0x44086035439E676c02D411880FcCb9837CE37c57
+# - https://etherscan.io/token/0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8 (Wrapped USD): https://covenants.eth.link
+0x7C974104DF9dd7fb91205ab3D66d15AFf1049DE8
+
+# Disabling assets with 'usdd' symbol
 # - https://etherscan.io/token/0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6 (Decentralized USD): https://usdd.io/
 0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6
 # - https://etherscan.io/token/0x861d899E74eC0e84fa8A15Ba58088Bb3BACcb6FA (Tether DeFi (USDD)): https://tetherdefi.com
 0x861d899E74eC0e84fa8A15Ba58088Bb3BACcb6FA
-#
 
-# 'eMax' is shared by:
-# - https://etherscan.io/token/0x15874d65e649880c2614e7a480cb7c9A55787FF6 (EthereumMax): https://www.ethereummax.org/
-# 0x15874d65e649880c2614e7a480cb7c9A55787FF6
-# - https://etherscan.io/token/0xA3E059c0b01F07F211c85bF7b4f1d907AfB011df (EthereumMax (Deprecated)): https://www.ethereummax.org/
-0xA3E059c0b01F07F211c85bF7b4f1d907AfB011df
-#
-# 'sETH' is shared by:
-# - https://etherscan.io/token/0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb (Synth sETH): https://www.synthetix.io/
-# 0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb
-# - https://etherscan.io/token/0xbEe9Cf658702527b0AcB2719c1FAA29EdC006a92 (Strike ETH): https://strike.org
-0xbEe9Cf658702527b0AcB2719c1FAA29EdC006a92
-#
+# Disabling assets with 'bnb' symbol
+# - https://etherscan.io/token/0x418D75f65a02b3D53B2418FB8E1fe493759c7605 (Binance Coin (Portal)): https://www.binance.com/
+0x418D75f65a02b3D53B2418FB8E1fe493759c7605
+# - https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52 (BNB): https://www.binance.com
+0xB8c77482e45F1F44dE1745F52C74426C631bDD52
 
-Found 4 duplicate symbols:
-# 'gene' is shared by:
-# - https://etherscan.io/token/0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D (GENE TOKEN (PARKGENE)): https://parkgene.io
-# 0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D
-# - https://etherscan.io/token/0x884181554dfA9e578d36379919C05C25dC4a15bB (Gene Source Code Chain): http://www.gscchain.org
-0x884181554dfA9e578d36379919C05C25dC4a15bB
-#
-# 'rai' is shared by:
-# - https://etherscan.io/token/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919 (Rai Reflex Index): https://reflexer.finance
-# 0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919
-# - https://etherscan.io/token/0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f (Rai Finance): https://rai.finance
-0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f
-#
-# 'slink' is shared by:
-# - https://etherscan.io/token/0x10Bae51262490B4f4AF41e12eD52A0E744c1137A (Soft Link): https://slink.finance/
-# 0x10Bae51262490B4f4AF41e12eD52A0E744c1137A
-# - https://etherscan.io/token/0x3F3B3B269d9f7088B022290906acff8710914be1 (Strike LINK): https://strike.org
-0x3F3B3B269d9f7088B022290906acff8710914be1
-#
-# 'usdx' is shared by:
-# - https://etherscan.io/token/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3 (Dollars): https://dollarprotocol.com
-# 0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3
-# - https://etherscan.io/token/0xBec4A69D6A5fbCb2303c13D24ea1A51a6F19bd12 (USDX): -
-0xBec4A69D6A5fbCb2303c13D24ea1A51a6F19bd12
-#
+# Disabling assets with 'try' symbol, conflics with the Turkish Lira (TRY)
+# - https://etherscan.io/token/0xe431a4c5DB8B73c773e06cf2587dA1EB53c41373 (Trias Token): https://www.trias.one
+0xe431a4c5DB8B73c773e06cf2587dA1EB53c41373
+
+# - https://etherscan.io/token/0xe7E4279b80D319EDe2889855135A22021baf0907 (ZeusNetwork): https://zeusnetwork.io
+0xe7E4279b80D319EDe2889855135A22021baf0907
+
+# - https://etherscan.io/token/0xD91a6162F146EF85922d9A15eE6eB14A00344586 (Sessia Kicks): https://sessia.com/
+0xD91a6162F146EF85922d9A15eE6eB14A00344586
+
+# End
