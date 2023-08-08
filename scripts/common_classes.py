@@ -47,8 +47,7 @@ class Blockchain:
 
     @classmethod
     def from_dict(cls, key, dict_):
-        dict_ = dict(dict_.items())
-        dict_.update(dict(key=key))
+        dict_ = dict(dict_.items()) | {'key': key}
         return build_dataclass_from_dict(cls, dict_)
 
 
@@ -109,10 +108,10 @@ class ERC20Token:
     @staticmethod
     def build_token_logo(address, chain):
         if os.path.exists(os.path.join(f"extensions/blockchains/{chain}/assets/", address, "logo.png")):
-            base_path = BC_REPO_ROOT + f"extensions/blockchains/{chain}/assets/"
+            base_path = f"{BC_REPO_ROOT}extensions/blockchains/{chain}/assets/"
         else:
-            base_path = TW_REPO_ROOT + f"blockchains/{chain}/assets/"
-        asset_path = urljoin(base_path, address + "/")
+            base_path = f"{TW_REPO_ROOT}blockchains/{chain}/assets/"
+        asset_path = urljoin(base_path, f"{address}/")
         return urljoin(asset_path, "logo.png")
 
     @staticmethod
@@ -131,9 +130,7 @@ class ERC20Token:
         if not network.symbol_suffix:
             return False
         # TODO: Remove special case for CEUR and CUSD (CTP-332)
-        if network.symbol == "CELO" and (self.symbol == "CEUR" or self.symbol == "CUSD"):
-            return False
-        return True
+        return network.symbol != "CELO" or self.symbol not in ["CEUR", "CUSD"]
 
     def with_suffix(self, network):
         if self.should_append_network_suffix(network):

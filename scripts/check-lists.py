@@ -146,7 +146,7 @@ def check_currencies(currencies, coins, erc20_tokens, chains, prices):
 
     for currency in currencies:
         if currency.symbol.upper() != currency.symbol:
-            yield Error(currency, f"Contains mix of lower and upper case letters")
+            yield Error(currency, "Contains mix of lower and upper case letters")
 
         if currency.type == "COIN":
             ref = coins.get(currency.symbol)
@@ -154,7 +154,7 @@ def check_currencies(currencies, coins, erc20_tokens, chains, prices):
             # No "native" (parent symbol) means it's a token in the ETH network;
             # otherwise we must lookup in the appropriate chain:
             symbol, _, native = currency.symbol.partition(".")
-            if native == "" or native == "ETH":
+            if native in ["", "ETH"]:
                 ref = erc20_tokens.get(currency.symbol)
             else:
                 ref = chains.get(native).get(currency.symbol)
@@ -175,15 +175,13 @@ def main():
     coins = list(map(lambda x: Coin.from_dict(x), read_json("coins.json")))
     erc20_tokens = list(map(lambda x: ERC20Token.from_dict(x), read_json("erc20-tokens.json")))
     chains = list(map(lambda x: Chain(**x), read_json("chain/list.json")))
-    chains = dict((c.native, read_json(c.tokens)) for c in chains)
+    chains = {c.native: read_json(c.tokens) for c in chains}
     chains = {k: list(map(lambda x: ERC20Token.from_dict(x), v)) for k, v in chains.items()}
 
     currencies = map(lambda x: Currency(**x), read_json("custody.json"))
 
     combined = sorted(itertools.chain(coins, erc20_tokens), key=lambda x: x.symbol)
-    duplicates = find_duplicates(combined, lambda t: t.symbol)
-
-    if duplicates:
+    if duplicates := find_duplicates(combined, lambda t: t.symbol):
         raise Exception(f"Duplicate elements found: {compress_duplicates(duplicates)}")
 
     prices = read_json("extensions/prices.json")['prices']
