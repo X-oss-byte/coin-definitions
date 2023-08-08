@@ -14,11 +14,10 @@ from statics import BLOCKCHAINS, EXT_BLOCKCHAINS_DENYLIST, EXT_BLOCKCHAINS, EXT_
 
 def read_json(path, comment_marker=None):
     with open(path) as json_file:
-        if comment_marker:
-            raw_data = "".join(map(lambda l: l.split(comment_marker)[0], json_file.readlines()))
-            return json.loads(raw_data)
-        else:
+        if not comment_marker:
             return json.load(json_file)
+        raw_data = "".join(map(lambda l: l.split(comment_marker)[0], json_file.readlines()))
+        return json.loads(raw_data)
 
 
 def read_txt(path):
@@ -63,7 +62,7 @@ def dump_duplicates(duplicates, explorer_url):
             etherscan_url = urljoin(explorer_url, token.address)
             print(f"# - {etherscan_url} ({token.name}): {token.website}")
             print(f"# {token.address}")
-        print(f"#")
+        print("#")
 
 
 def fetch_coins():
@@ -96,9 +95,7 @@ def fetch_coins():
     # Convert to Coin instances:
     coins = list(map(Coin.from_chain, chains))
 
-    duplicates = find_duplicates(coins, lambda c: c.symbol.lower())
-
-    if duplicates:
+    if duplicates := find_duplicates(coins, lambda c: c.symbol.lower()):
         raise Exception(f"Duplicates found: {duplicates}")
 
     return list(coins)
@@ -175,10 +172,7 @@ def build_erc20_tokens_list(erc20_network):
     extensions = map(lambda ext: ERC20Token.from_asset(ext, erc20_network.chain), extensions)
     tokens = sorted(set(extensions) | set(tokens), key=lambda t: t.address)
 
-    # Look for duplicates:
-    duplicates = find_duplicates(tokens, lambda t: t.symbol.lower())
-
-    if duplicates:
+    if duplicates := find_duplicates(tokens, lambda t: t.symbol.lower()):
         dump_duplicates(duplicates, erc20_network.explorer_url)
         return
 
@@ -206,8 +200,6 @@ def fetch_descriptions():
     descriptions_list = []
 
     for symbol, description in descriptions.items():
-        if not description:
-            pass
         text_description = description.description
         text_descriptions[symbol] = text_description if text_description else ''
         descriptions_list.append({
